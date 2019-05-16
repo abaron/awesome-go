@@ -105,25 +105,25 @@ A curated list of amazingly awesome Go libraries, resources and shiny things.
 
 | Name | Description | Star | Fork |
 | - | - | - | - |
-| [EasyMIDI](https://github.com/algoGuy/EasyMIDI) | EasyMidi is a simple and reliable library for working with standard midi file (SMF) | 200 | 321 | | - | - |
-| [flac](https://github.com/eaburns/flac) | No-frills native Go FLAC decoder that decodes FLAC files into byte slices. | - | - |
-| [flac](https://github.com/mewkiz/flac) | Native Go FLAC encoder/decoder with support for FLAC streams. | - | - |
-| [gaad](https://github.com/Comcast/gaad) | Native Go AAC bitstream parser. | - | - |
-| [go-sox](https://github.com/krig/go-sox) | libsox bindings for go. | - | - |
-| [go_mediainfo](https://github.com/zhulik/go_mediainfo) | libmediainfo bindings for go. | - | - |
-| [gosamplerate](https://github.com/dh1tw/gosamplerate) | libsamplerate bindings for go. | - | - |
-| [id3v2](https://github.com/bogem/id3v2) | Fast and stable ID3 parsing and writing library for Go. | - | - |
-| [malgo](https://github.com/gen2brain/malgo) | Mini audio library. | - | - |
-| [minimp3](https://github.com/tosone/minimp3) | Lightweight MP3 decoder library. | - | - |
-| [mix](https://github.com/go-mix/mix) | Sequence-based Go-native audio mixer for music apps. | - | - |
-| [mp3](https://github.com/tcolgate/mp3) | Native Go MP3 decoder. | - | - |
-| [music-theory](https://github.com/go-music-theory/music-theory) | Music theory models in Go. | - | - |
-| [Oto](https://github.com/hajimehoshi/oto) | A low-level library to play sound on multiple platforms. | - | - |
-| [PortAudio](https://github.com/gordonklaus/portaudio) | Go bindings for the PortAudio audio I/O library. | - | - |
-| [portmidi](https://github.com/rakyll/portmidi) | Go bindings for PortMidi. | - | - |
-| [taglib](https://github.com/wtolson/go-taglib) | Go bindings for taglib. | - | - |
-| [vorbis](https://github.com/mccoyst/vorbis) | "Native" Go Vorbis decoder (uses CGO, but has no dependencies). | - | - |
-| [waveform](https://github.com/mdlayher/waveform) | Go package capable of generating waveform images from audio streams. | - | - |
+| [EasyMIDI](https://github.com/algoGuy/EasyMIDI) | EasyMidi is a simple and reliable library for working with standard midi file (SMF) | 18 | 4 |
+| [flac](https://github.com/eaburns/flac) | No-frills native Go FLAC decoder that decodes FLAC files into byte slices. | 82 | 9 |
+| [flac](https://github.com/mewkiz/flac) | Native Go FLAC encoder/decoder with support for FLAC streams. | 96 | 18 |
+| [gaad](https://github.com/Comcast/gaad) | Native Go AAC bitstream parser. | 53 | 6 |
+| [go-sox](https://github.com/krig/go-sox) | libsox bindings for go. | 89 | 20 |
+| [go_mediainfo](https://github.com/zhulik/go_mediainfo) | libmediainfo bindings for go. | 24 | 9 |
+| [gosamplerate](https://github.com/dh1tw/gosamplerate) | libsamplerate bindings for go. | 8 | 0 |
+| [id3v2](https://github.com/bogem/id3v2) | Fast and stable ID3 parsing and writing library for Go. | 100 | 19 |
+| [malgo](https://github.com/gen2brain/malgo) | Mini audio library. | 65 | 9 |
+| [minimp3](https://github.com/tosone/minimp3) | Lightweight MP3 decoder library. | 24 | 6 |
+| [mix](https://github.com/go-mix/mix) | Sequence-based Go-native audio mixer for music apps. | 91 | 17 |
+| [mp3](https://github.com/tcolgate/mp3) | Native Go MP3 decoder. | 86 | 9 |
+| [music-theory](https://github.com/go-music-theory/music-theory) | Music theory models in Go. | 247 | 21 |
+| [Oto](https://github.com/hajimehoshi/oto) | A low-level library to play sound on multiple platforms. | 365 | 24 |
+| [PortAudio](https://github.com/gordonklaus/portaudio) | Go bindings for the PortAudio audio I/O library. | 283 | 44 |
+| [portmidi](https://github.com/rakyll/portmidi) | Go bindings for PortMidi. | 200 | 42 |
+| [taglib](https://github.com/wtolson/go-taglib) | Go bindings for taglib. | 65 | 17 |
+| [vorbis](https://github.com/mccoyst/vorbis) | "Native" Go Vorbis decoder (uses CGO, but has no dependencies). | 22 | 4 |
+| [waveform](https://github.com/mdlayher/waveform) | Go package capable of generating waveform images from audio streams. | 239 | 21 |
 
 ## Authentication and OAuth
 
