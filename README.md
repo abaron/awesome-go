@@ -411,17 +411,17 @@ A curated list of amazingly awesome Go libraries, resources and shiny things.
 
 | Name | Description | Star | Fork |
 | - | - | - | - |
-| [avro](https://github.com/khezen/avro) | Discover SQL schemas and convert them to AVRO schemas. Query SQL records into AVRO bytes. | - | - |
-| [darwin](https://github.com/GuiaBolso/darwin) | Database schema evolution library for Go. | - | - |
-| [go-fixtures](https://github.com/RichardKnop/go-fixtures) | Django style fixtures for Golang's excellent built-in database/sql library. | - | - |
-| [go-pg-migrations](https://github.com/robinjoseph08/go-pg-migrations) | A Go package to help write migrations with go-pg/pg. | - | - |
-| [gondolier](https://github.com/emvi/gondolier) | Database migration library using struct decorators. | - | - |
-| [goose](https://github.com/steinbacher/goose) | Database migration tool. You can manage your database's evolution by creating incremental SQL or Go scripts. | - | - |
-| [gormigrate](https://github.com/go-gormigrate/gormigrate) | Database schema migration helper for Gorm ORM. | - | - |
-| [migrate](https://github.com/golang-migrate/migrate) | Database migrations. CLI and Golang library. | - | - |
-| [pravasan](https://github.com/pravasan/pravasan) | Simple Migration tool - currently for MySQL but planning to soon support Postgres, SQLite, MongoDB, etc. | - | - |
-| [soda](https://github.com/gobuffalo/pop/tree/master/soda) | Database migration, creation, ORM, etc... for MySQL, PostgreSQL, and SQLite. | - | - |
-| [sql-migrate](https://github.com/rubenv/sql-migrate) | Database migration tool. Allows embedding migrations into the application using go-bindata. | - | - |
+| [avro](https://github.com/khezen/avro) | Discover SQL schemas and convert them to AVRO schemas. Query SQL records into AVRO bytes. | 2 | 0 |
+| [darwin](https://github.com/GuiaBolso/darwin) | Database schema evolution library for Go. | 80 | 10 |
+| [go-fixtures](https://github.com/RichardKnop/go-fixtures) | Django style fixtures for Golang's excellent built-in database/sql library. | 18 | 17 |
+| [go-pg-migrations](https://github.com/robinjoseph08/go-pg-migrations) | A Go package to help write migrations with go-pg/pg. | 24 | 5 |
+| [gondolier](https://github.com/emvi/gondolier) | Database migration library using struct decorators. | 25 | 1 |
+| [goose](https://github.com/steinbacher/goose) | Database migration tool. You can manage your database's evolution by creating incremental SQL or Go scripts. | 109 | 17 |
+| [gormigrate](https://github.com/go-gormigrate/gormigrate) | Database schema migration helper for Gorm ORM. | 289 | 32 |
+| [migrate](https://github.com/golang-migrate/migrate) | Database migrations. CLI and Golang library. | 2,112 | 205 |
+| [pravasan](https://github.com/pravasan/pravasan) | Simple Migration tool - currently for MySQL but planning to soon support Postgres, SQLite, MongoDB, etc. | 24 | 5 |
+| [soda](https://github.com/gobuffalo/pop/tree/master/soda) | Database migration, creation, ORM, etc... for MySQL, PostgreSQL, and SQLite. | 626 | 153 |
+| [sql-migrate](https://github.com/rubenv/sql-migrate) | Database migration tool. Allows embedding migrations into the application using go-bindata. | 1,322 | 128 |
 
 *Database tools.*
 
@@ -523,6 +523,7 @@ A curated list of amazingly awesome Go libraries, resources and shiny things.
     | [skizze](https://github.com/seiflotfy/skizze) | probabilistic data-structures service and storage. | - | - |
 
 * Multiple Backends.
+
     | Name | Description | Star | Fork |
     | - | - | - | - |
     | [cachego](https://github.com/fabiorphp/cachego) | Golang Cache component for multiple drivers. | - | - |
@@ -1355,13 +1356,13 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 | Name | Description | Star | Fork |
 | - | - | - | - |
-| [gojsonq](https://github.com/thedevsaddam/gojsonq) | A simple Go package to Query over JSON Data. | - | - |
-| [graphql](https://github.com/tmc/graphql) | graphql parser + utilities. | - | - |
-| [graphql](https://github.com/neelance/graphql-go) | GraphQL server with a focus on ease of use. | - | - |
-| [graphql-go](https://github.com/graphql-go/graphql) | Implementation of GraphQL for Go. | - | - |
-| [jsonql](https://github.com/elgs/jsonql) | JSON query expression library in Golang. | - | - |
-| [jsonslice](https://github.com/bhmj/jsonslice) | Jsonpath queries with advanced filters. | - | - |
-| [rql](https://github.com/a8m/rql) | Resource Query Language for REST API. | - | - |
+| [gojsonq](https://github.com/thedevsaddam/gojsonq) | A simple Go package to Query over JSON Data. | 801 | 47 |
+| [graphql](https://github.com/tmc/graphql) | graphql parser + utilities. | 50 | 6 |
+| [graphql](https://github.com/neelance/graphql-go) | GraphQL server with a focus on ease of use. | 2,598 | 255 |
+| [graphql-go](https://github.com/graphql-go/graphql) | Implementation of GraphQL for Go. | 4,806 | 425 |
+| [jsonql](https://github.com/elgs/jsonql) | JSON query expression library in Golang. | 197 | 26 |
+| [jsonslice](https://github.com/bhmj/jsonslice) | Jsonpath queries with advanced filters. | 19 | 1 |
+| [rql](https://github.com/a8m/rql) | Resource Query Language for REST API. | 100 | 5 |
 
 ## Resource Embedding
 
