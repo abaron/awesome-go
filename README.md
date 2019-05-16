@@ -411,17 +411,17 @@ A curated list of amazingly awesome Go libraries, resources and shiny things.
 
 | Name | Description | Star | Fork |
 | - | - | - | - |
-| [avro](https://github.com/khezen/avro) | Discover SQL schemas and convert them to AVRO schemas. Query SQL records into AVRO bytes. | - | - |
-| [darwin](https://github.com/GuiaBolso/darwin) | Database schema evolution library for Go. | - | - |
-| [go-fixtures](https://github.com/RichardKnop/go-fixtures) | Django style fixtures for Golang's excellent built-in database/sql library. | - | - |
-| [go-pg-migrations](https://github.com/robinjoseph08/go-pg-migrations) | A Go package to help write migrations with go-pg/pg. | - | - |
-| [gondolier](https://github.com/emvi/gondolier) | Database migration library using struct decorators. | - | - |
-| [goose](https://github.com/steinbacher/goose) | Database migration tool. You can manage your database's evolution by creating incremental SQL or Go scripts. | - | - |
-| [gormigrate](https://github.com/go-gormigrate/gormigrate) | Database schema migration helper for Gorm ORM. | - | - |
-| [migrate](https://github.com/golang-migrate/migrate) | Database migrations. CLI and Golang library. | - | - |
-| [pravasan](https://github.com/pravasan/pravasan) | Simple Migration tool - currently for MySQL but planning to soon support Postgres, SQLite, MongoDB, etc. | - | - |
-| [soda](https://github.com/gobuffalo/pop/tree/master/soda) | Database migration, creation, ORM, etc... for MySQL, PostgreSQL, and SQLite. | - | - |
-| [sql-migrate](https://github.com/rubenv/sql-migrate) | Database migration tool. Allows embedding migrations into the application using go-bindata. | - | - |
+| [avro](https://github.com/khezen/avro) | Discover SQL schemas and convert them to AVRO schemas. Query SQL records into AVRO bytes. | 2 | 0 |
+| [darwin](https://github.com/GuiaBolso/darwin) | Database schema evolution library for Go. | 80 | 10 |
+| [go-fixtures](https://github.com/RichardKnop/go-fixtures) | Django style fixtures for Golang's excellent built-in database/sql library. | 18 | 17 |
+| [go-pg-migrations](https://github.com/robinjoseph08/go-pg-migrations) | A Go package to help write migrations with go-pg/pg. | 24 | 5 |
+| [gondolier](https://github.com/emvi/gondolier) | Database migration library using struct decorators. | 25 | 1 |
+| [goose](https://github.com/steinbacher/goose) | Database migration tool. You can manage your database's evolution by creating incremental SQL or Go scripts. | 109 | 17 |
+| [gormigrate](https://github.com/go-gormigrate/gormigrate) | Database schema migration helper for Gorm ORM. | 289 | 32 |
+| [migrate](https://github.com/golang-migrate/migrate) | Database migrations. CLI and Golang library. | 2,112 | 205 |
+| [pravasan](https://github.com/pravasan/pravasan) | Simple Migration tool - currently for MySQL but planning to soon support Postgres, SQLite, MongoDB, etc. | 24 | 5 |
+| [soda](https://github.com/gobuffalo/pop/tree/master/soda) | Database migration, creation, ORM, etc... for MySQL, PostgreSQL, and SQLite. | 626 | 153 |
+| [sql-migrate](https://github.com/rubenv/sql-migrate) | Database migration tool. Allows embedding migrations into the application using go-bindata. | 1,322 | 128 |
 
 *Database tools.*
 
