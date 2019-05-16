@@ -1300,23 +1300,23 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 | Name | Description | Star | Fork |
 | - | - | - | - |
-| [beego orm](https://github.com/astaxie/beego/tree/master/orm) | Powerful orm framework for go. Support: pq/mysql/sqlite3. | - | - |
-| [go-pg](https://github.com/go-pg/pg) | PostgreSQL ORM with focus on PostgreSQL specific features and performance. | - | - |
-| [go-queryset](https://github.com/jirfag/go-queryset) | 100% type-safe ORM with code generation and MySQL, PostgreSQL, Sqlite3, SQL Server support based on GORM. | - | - |
-| [go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) | A flexible and powerful SQL string builder library plus a zero-config ORM. | - | - |
-| [go-store](https://github.com/gosuri/go-store) | Simple and fast Redis backed key-value store library for Go. | - | - |
-| [GORM](https://github.com/jinzhu/gorm) | The fantastic ORM library for Golang, aims to be developer friendly. | - | - |
-| [gorp](https://github.com/go-gorp/gorp) | Go Relational Persistence, ORM-ish library for Go. | - | - |
-| [grimoire](https://github.com/Fs02/grimoire) | Grimoire is a database access layer and validation for golang. (Support: MySQL, PostgreSQL and SQLite3). | - | - |
-| [lore](https://github.com/abrahambotros/lore) | Simple and lightweight pseudo-ORM/pseudo-struct-mapping environment for Go. | - | - |
-| [Marlow](https://github.com/dadleyy/marlow) | Generated ORM from project structs for compile time safety assurances. | - | - |
-| [pop/soda](https://github.com/gobuffalo/pop) | Database migration, creation, ORM, etc... for MySQL, PostgreSQL, and SQLite. | - | - |
-| [QBS](https://github.com/coocood/qbs) | Stands for Query By Struct. A Go ORM. | - | - |
-| [reform](https://github.com/go-reform/reform) | Better ORM for Go, based on non-empty interfaces and code generation. | - | - |
-| [SQLBoiler](https://github.com/volatiletech/sqlboiler) | ORM generator. Generate a featureful and blazing-fast ORM tailored to your database schema. | - | - |
-| [upper.io/db](https://github.com/upper/db) | Single interface for interacting with different data sources through the use of adapters that wrap mature database drivers. | - | - |
-| [Xorm](https://github.com/go-xorm/xorm) | Simple and powerful ORM for Go. | - | - |
-| [Zoom](https://github.com/albrow/zoom) | Blazing-fast datastore and querying engine built on Redis. | - | - |
+| [beego orm](https://github.com/astaxie/beego/tree/master/orm) | Powerful orm framework for go. Support: pq/mysql/sqlite3. | 20,379 | 4,148 |
+| [go-pg](https://github.com/go-pg/pg) | PostgreSQL ORM with focus on PostgreSQL specific features and performance. | 2,668 | 201 |
+| [go-queryset](https://github.com/jirfag/go-queryset) | 100% type-safe ORM with code generation and MySQL, PostgreSQL, Sqlite3, SQL Server support based on GORM. | 434 | 33 |
+| [go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) | A flexible and powerful SQL string builder library plus a zero-config ORM. | 204 | 25 |
+| [go-store](https://github.com/gosuri/go-store) | Simple and fast Redis backed key-value store library for Go. | 93 | 8 |
+| [GORM](https://github.com/jinzhu/gorm) | The fantastic ORM library for Golang, aims to be developer friendly. | 13,495 | 1,524 |
+| [gorp](https://github.com/go-gorp/gorp) | Go Relational Persistence, ORM-ish library for Go. | 3,035 | 349 |
+| [grimoire](https://github.com/Fs02/grimoire) | Grimoire is a database access layer and validation for golang. (Support: MySQL, PostgreSQL and SQLite3). | 109 | 11 |
+| [lore](https://github.com/abrahambotros/lore) | Simple and lightweight pseudo-ORM/pseudo-struct-mapping environment for Go. | 4 | 1 |
+| [Marlow](https://github.com/dadleyy/marlow) | Generated ORM from project structs for compile time safety assurances. | 56 | 4 |
+| [pop/soda](https://github.com/gobuffalo/pop) | Database migration, creation, ORM, etc... for MySQL, PostgreSQL, and SQLite. | 626 | 153 |
+| [QBS](https://github.com/coocood/qbs) | Stands for Query By Struct. A Go ORM. | 532 | 103 |
+| [reform](https://github.com/go-reform/reform) | Better ORM for Go, based on non-empty interfaces and code generation. | 771 | 44 |
+| [SQLBoiler](https://github.com/volatiletech/sqlboiler) | ORM generator. Generate a featureful and blazing-fast ORM tailored to your database schema. | 2,097 | 197 |
+| [upper.io/db](https://github.com/upper/db) | Single interface for interacting with different data sources through the use of adapters that wrap mature database drivers. | 1,774 | 132 |
+| [Xorm](https://github.com/go-xorm/xorm) | Simple and powerful ORM for Go. | 4,805 | 615 |
+| [Zoom](https://github.com/albrow/zoom) | Blazing-fast datastore and querying engine built on Redis. | 233 | 18 |
 
 ## Package Management
 
