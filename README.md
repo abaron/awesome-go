@@ -523,6 +523,7 @@ A curated list of amazingly awesome Go libraries, resources and shiny things.
     | [skizze](https://github.com/seiflotfy/skizze) | probabilistic data-structures service and storage. | - | - |
 
 * Multiple Backends.
+
     | Name | Description | Star | Fork |
     | - | - | - | - |
     | [cachego](https://github.com/fabiorphp/cachego) | Golang Cache component for multiple drivers. | - | - |
@@ -1355,13 +1356,13 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 | Name | Description | Star | Fork |
 | - | - | - | - |
-| [gojsonq](https://github.com/thedevsaddam/gojsonq) | A simple Go package to Query over JSON Data. | - | - |
-| [graphql](https://github.com/tmc/graphql) | graphql parser + utilities. | - | - |
-| [graphql](https://github.com/neelance/graphql-go) | GraphQL server with a focus on ease of use. | - | - |
-| [graphql-go](https://github.com/graphql-go/graphql) | Implementation of GraphQL for Go. | - | - |
-| [jsonql](https://github.com/elgs/jsonql) | JSON query expression library in Golang. | - | - |
-| [jsonslice](https://github.com/bhmj/jsonslice) | Jsonpath queries with advanced filters. | - | - |
-| [rql](https://github.com/a8m/rql) | Resource Query Language for REST API. | - | - |
+| [gojsonq](https://github.com/thedevsaddam/gojsonq) | A simple Go package to Query over JSON Data. | 801 | 47 |
+| [graphql](https://github.com/tmc/graphql) | graphql parser + utilities. | 50 | 6 |
+| [graphql](https://github.com/neelance/graphql-go) | GraphQL server with a focus on ease of use. | 2,598 | 255 |
+| [graphql-go](https://github.com/graphql-go/graphql) | Implementation of GraphQL for Go. | 4,806 | 425 |
+| [jsonql](https://github.com/elgs/jsonql) | JSON query expression library in Golang. | 197 | 26 |
+| [jsonslice](https://github.com/bhmj/jsonslice) | Jsonpath queries with advanced filters. | 19 | 1 |
+| [rql](https://github.com/a8m/rql) | Resource Query Language for REST API. | 100 | 5 |
 
 ## Resource Embedding
 
