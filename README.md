@@ -983,7 +983,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [ozzo-log](https://github.com/go-ozzo/ozzo-log) | High performance logging supporting log severity, categorization, and filtering. Can send filtered log messages to various targets (e.g. console, network, mail). | - | - |
 | [rollingwriter](https://github.com/arthurkiller/rollingWriter) | RollingWriter is an auto-rotate `io.Writer` implementation with multi policies to provide log file rotation. | - | - |
 | [seelog](https://github.com/cihub/seelog) | Logging functionality with flexible dispatching, filtering, and formatting. | - | - |
-| [spew](https://github.com/davecgh/go-spew) | Implements a deep pretty printer for Go data structures to aid in debugging. | - | - |
+| [spew](https://github.com/davecgh/go-spew) | Implements a deep pretty printer for Go data structures to aid in debugging. | 3,144 | 193 |
 | [stdlog](https://github.com/alexcesaro/log) | Stdlog is an object-oriented library providing leveled logging. It is very useful for cron jobs. | - | - |
 | [tail](https://github.com/hpcloud/tail) | Go package striving to emulate the features of the BSD tail program. | - | - |
 | [xlog](https://github.com/xfxdev/xlog) | Plugin architecture and flexible log system for Go, with level ctrl, multiple log target and custom log format. | - | - |
@@ -1357,9 +1357,11 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | Name | Description | Star | Fork |
 | - | - | - | - |
 | [gojsonq](https://github.com/thedevsaddam/gojsonq) | A simple Go package to Query over JSON Data. | 801 | 47 |
+| [gqlgen](https://github.com/99designs/gqlgen) | go generate based graphql server library. | 2,787 | 230 |
 | [graphql](https://github.com/tmc/graphql) | graphql parser + utilities. | 50 | 6 |
-| [graphql](https://github.com/neelance/graphql-go) | GraphQL server with a focus on ease of use. | 2,598 | 255 |
-| [graphql-go](https://github.com/graphql-go/graphql) | Implementation of GraphQL for Go. | 4,806 | 425 |
+| [graphql](https://github.com/graphql-go/graphql) | Implementation of GraphQL for Go. | 4,806 | 425 |
+| [graphql-go](https://github.com/neelance/graphql-go) | GraphQL server with a focus on ease of use. | 2,598 | 255 |
+| [graphql-go](https://github.com/graph-gophers/graphql-go) | Implementation of GraphQL for Go. | 2,607 | 255 |
 | [jsonql](https://github.com/elgs/jsonql) | JSON query expression library in Golang. | 197 | 26 |
 | [jsonslice](https://github.com/bhmj/jsonslice) | Jsonpath queries with advanced filters. | 19 | 1 |
 | [rql](https://github.com/a8m/rql) | Resource Query Language for REST API. | 100 | 5 |
@@ -1779,6 +1781,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [go-bind-plugin](https://github.com/wendigo/go-bind-plugin) | go:generate tool for wrapping symbols exported by golang plugins (1.8 only). | - | - |
 | [go-bsdiff](https://github.com/gabstv/go-bsdiff) | Pure Go bsdiff and bspatch libraries and CLI tools. | - | - |
 | [go-dry](https://github.com/ungerik/go-dry) | DRY (don't repeat yourself) package for Go. | - | - |
+| [go-dump](https://github.com/fsamin/go-dump) | Go-Dump is a Golang package which helps you to dump a struct. | 19 | 5 |
 | [go-funk](https://github.com/thoas/go-funk) | Modern Go utility library which provides helpers (map, find, contains, filter, chunk, reverse, ...). | - | - |
 | [go-health](https://github.com/Talento90/go-health) | Health package simplifies the way you add health check to your services. | - | - |
 | [go-httpheader](https://github.com/mozillazg/go-httpheader) | Go library for encoding structs into Header fields. | - | - |
