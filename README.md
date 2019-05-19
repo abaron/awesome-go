@@ -1931,43 +1931,43 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | Name | Description | Stars | Forks | Issues (Open) |
 | - | - | - | - | - |
 | [aah](https://aahframework.org) | Scalable, performant, rapid development Web framework for Go. | - | - | - |
-| [Aero](https://github.com/aerogo/aero) | High-performance web framework for Go, reaches top scores in Lighthouse. | - | - | - |
-| [Air](https://github.com/aofei/air) | An ideally refined web framework for Go. | - | - | - |
-| [Banjo](https://github.com/nsheremet/banjo) | Very simple and fast web framework for Go. | - | - | - |
-| [Beego](https://github.com/astaxie/beego) | beego is an open-source, high-performance web framework for the Go programming language. | - | - | - |
-| [Buffalo](http://gobuffalo.io) | Bringing the productivity of Rails to Go! | - | - | - |
-| [Echo](https://github.com/labstack/echo) | High performance, minimalist Go web framework. | - | - | - |
-| [Fireball](https://github.com/zpatrick/fireball) | More "natural" feeling web framework. | - | - | - |
-| [Gem](https://github.com/go-gem/gem) | Simple and fast web framework, friendly to REST API. | - | - | - |
-| [Gin](https://github.com/gin-gonic/gin) | Gin is a web framework written in Go! It features a martini-like API with much better performance, up to 40 times faster. If you need performance and good productivity. | - | - | - |
-| [Gizmo](https://github.com/NYTimes/gizmo) | Microservice toolkit used by the New York Times. | - | - | - |
-| [go-json-rest](https://github.com/ant0ine/go-json-rest) | Quick and easy way to setup a RESTful JSON API. | - | - | - |
-| [go-rest](https://github.com/ungerik/go-rest) | Small and evil REST framework for Go. | - | - | - |
-| [goa](https://github.com/raphael/goa) | Framework for developing microservices based on the design of Ruby's Praxis. | - | - | - |
-| [Golax](https://github.com/fulldump/golax) | A non Sinatra fast HTTP framework with support for Google custom methods, deep interceptors, recursion and more. | - | - | - |
-| [Golf](https://github.com/dinever/golf) | Golf is a fast, simple and lightweight micro-web framework for Go. It comes with powerful features and has no dependencies other than the Go Standard Library. | - | - | - |
-| [Gondola](https://github.com/rainycape/gondola) | The web framework for writing faster sites, faster. | - | - | - |
-| [gongular](https://github.com/mustafaakin/gongular) | Fast Go web framework with input mapping/validation and (DI) Dependency Injection. | - | - | - |
-| [hiboot](https://github.com/hidevopsio/hiboot) | hiboot is a high performance web application framework with auto configuration and dependency injection support. | - | - | - |
-| [Macaron](https://github.com/go-macaron/macaron) | Macaron is a high productive and modular design web framework in Go. | - | - | - |
-| [mango](https://github.com/paulbellamy/mango) | Mango is a modular web-application framework for Go, inspired by Rack, and PEP333. | - | - | - |
-| [Microservice](https://github.com/claygod/microservice) | The framework for the creation of microservices, written in Golang. | - | - | - |
-| [neo](https://github.com/ivpusic/neo) | Neo is minimal and fast Go Web Framework with extremely simple API. | - | - | - |
-| [nio](https://github.com/go-nio/nio) | Modern, minimal and productive Go HTTP framework. | - | - | - |
-| [Resoursea](https://github.com/resoursea/api) | REST framework for quickly writing resource based services. | - | - | - |
-| [REST Layer](http://rest-layer.io) | Framework to build REST/GraphQL API on top of databases with mostly configuration over code. | - | - | - |
-| [Revel](https://github.com/revel/revel) | High-productivity web framework for the Go language. | - | - | - |
-| [rex](https://github.com/goanywhere/rex) | Rex is a library for modular development built upon gorilla/mux, fully compatible with `net/http`. | - | - | - |
-| [sawsij](https://github.com/jaybill/sawsij) | lightweight, open-source web framework for building high-performance, data-driven web applications. | - | - | - |
-| [tango](https://github.com/lunny/tango) | Micro & pluggable web framework for Go. | - | - | - |
-| [tigertonic](https://github.com/rcrowley/go-tigertonic) | Go framework for building JSON web services inspired by Dropwizard. | - | - | - |
-| [traffic](https://github.com/pilu/traffic) | Sinatra inspired regexp/pattern mux and web framework for Go. | - | - | - |
-| [uAdmin](https://github.com/uadmin/uadmin) | Fully featured web framework for Golang, inspired by Django. | - | - | - |
-| [utron](https://github.com/gernest/utron) | Lightweight MVC framework for Go(Golang). | - | - | - |
-| [vox](https://github.com/aisk/vox) | A golang web framework for humans, inspired by Koa heavily. | - | - | - |
-| [WebGo](https://github.com/bnkamalesh/webgo) | A micro-framework to build web apps; with handler chaining, middleware and context injection. With standard library compliant HTTP handlers(i.e. http.HandlerFunc). | - | - | - |
-| [YARF](https://github.com/yarf-framework/yarf) | Fast micro-framework designed to build REST APIs and web services in a fast and simple way. | - | - | - |
-| [Zerver](https://github.com/cosiner/zerver) | Zerver is an expressive, modular, feature completed RESTful framework. | - | - | - |
+| [Aero](https://github.com/aerogo/aero) | High-performance web framework for Go, reaches top scores in Lighthouse. | 113 | 5 | 0 |
+| [Air](https://github.com/aofei/air) | An ideally refined web framework for Go. | 340 | 20 | 2 |
+| [Banjo](https://github.com/nsheremet/banjo) | Very simple and fast web framework for Go. | 6 | 3 | 1 |
+| [Beego](https://github.com/astaxie/beego) | beego is an open-source, high-performance web framework for the Go programming language. | 20,414 | 4,150 | 597 |
+| [Buffalo](http://gobuffalo.io) | Bringing the productivity of Rails to Go! | 4,416 | 351 | 58 |
+| [Echo](https://github.com/labstack/echo) | High performance, minimalist Go web framework. | 13,905 | 1,251 | 23 |
+| [Fireball](https://github.com/zpatrick/fireball) | More "natural" feeling web framework. | 48 | 4 | 0 |
+| [Gem](https://github.com/go-gem/gem) | Simple and fast web framework, friendly to REST API. | 152 | 35 | `nil` |
+| [Gin](https://github.com/gin-gonic/gin) | Gin is a web framework written in Go! It features a martini-like API with much better performance, up to 40 times faster. If you need performance and good productivity. | 27,323 | 3,157 | 137 |
+| [Gizmo](https://github.com/NYTimes/gizmo) | Microservice toolkit used by the New York Times. | 2,764 | 175 | 13 |
+| [go-json-rest](https://github.com/ant0ine/go-json-rest) | Quick and easy way to setup a RESTful JSON API. | 3,304 | 368 | 32 |
+| [go-rest](https://github.com/ungerik/go-rest) | Small and evil REST framework for Go. | 114 | 10 | 2 |
+| [goa](https://github.com/raphael/goa) | Framework for developing microservices based on the design of Ruby's Praxis. | 3,385 | 373 | 5 |
+| [Golax](https://github.com/fulldump/golax) | A non Sinatra fast HTTP framework with support for Google custom methods, deep interceptors, recursion and more. | 69 | 4 | 6 |
+| [Golf](https://github.com/dinever/golf) | Golf is a fast, simple and lightweight micro-web framework for Go. It comes with powerful features and has no dependencies other than the Go Standard Library. | 233 | 22 | 5 |
+| [Gondola](https://github.com/rainycape/gondola) | The web framework for writing faster sites, faster. | 314 | 22 | 5 |
+| [gongular](https://github.com/mustafaakin/gongular) | Fast Go web framework with input mapping/validation and (DI) Dependency Injection. | 413 | 15 | 4 |
+| [hiboot](https://github.com/hidevopsio/hiboot) | hiboot is a high performance web application framework with auto configuration and dependency injection support. | 74 | 14 | 2 |
+| [Iris](https://github.com/kataras/iris) | Iris is the fastest community-driven web framework on (THIS) Earth. HTTP/2, MVC and more. Unbeatable free support for everyone. | 14,738 | 1,529 | 52 |
+| [Macaron](https://github.com/go-macaron/macaron) | Macaron is a high productive and modular design web framework in Go. | 2,760 | 249 | 14 |
+| [mango](https://github.com/paulbellamy/mango) | Mango is a modular web-application framework for Go, inspired by Rack, and PEP333. | 338 | 36 | 9 |
+| [Microservice](https://github.com/claygod/microservice) | The framework for the creation of microservices, written in Golang. | 55 | 8 | 0 |
+| [neo](https://github.com/ivpusic/neo) | Neo is minimal and fast Go Web Framework with extremely simple API. | 389 | 38 | 6 |
+| [nio](https://github.com/go-nio/nio) | Modern, minimal and productive Go HTTP framework. | 20 | 2 | 0 |
+| [Resoursea](https://github.com/resoursea/api) | REST framework for quickly writing resource based services. | 29 | 2 | 0 |
+| [REST Layer](https://github.com/rs/rest-layer) | Framework to build REST/GraphQL API on top of databases with mostly configuration over code. | 815 | 65 | 33 |
+| [Revel](https://github.com/revel/revel) | High-productivity web framework for the Go language. | 11,060 | 1,331 | 67 |
+| [rex](https://github.com/goanywhere/rex) | Rex is a library for modular development built upon gorilla/mux, fully compatible with `net/http`. | 25 | 0 | 0 |
+| [sawsij](https://github.com/jaybill/sawsij) | lightweight, open-source web framework for building high-performance, data-driven web applications. | 2 | 1 | 0 |
+| [tango](https://github.com/lunny/tango) | Micro & pluggable web framework for Go. | 809 | 108 | `nil` |
+| [tigertonic](https://github.com/rcrowley/go-tigertonic) | Go framework for building JSON web services inspired by Dropwizard. | 994 | 77 | 24 |
+| [traffic](https://github.com/pilu/traffic) | Sinatra inspired regexp/pattern mux and web framework for Go. | 517 | 28 | 0 |
+| [uAdmin](https://github.com/uadmin/uadmin) | Fully featured web framework for Golang, inspired by Django. | 39 | 9 | 5 |
+| [utron](https://github.com/gernest/utron) | Lightweight MVC framework for Go(Golang). | 2,132 | 142 | 6 |
+| [vox](https://github.com/aisk/vox) | A golang web framework for humans, inspired by Koa heavily. | 26 | 4 | 8 |
+| [WebGo](https://github.com/bnkamalesh/webgo) | A micro-framework to build web apps; with handler chaining, middleware and context injection. With standard library compliant HTTP handlers(i.e. http.HandlerFunc). | 70 | 6 | 1 |
+| [YARF](https://github.com/yarf-framework/yarf) | Fast micro-framework designed to build REST APIs and web services in a fast and simple way. | 48 | 3 | 1 |
 
 ### Middlewares
 
