@@ -131,31 +131,31 @@ A curated list of amazingly awesome Go libraries, resources and shiny things.
 
 | Name | Description | Stars | Forks | Issues (Open) |
 | - | - | - | - | - |
-| [authboss](https://github.com/volatiletech/authboss) | Modular authentication system for the web. It tries to remove as much boilerplate and "hard things" as possible so that each time you start a new web project in Go, you can plug it in, configure, and start building your app without having to build an authentication system each time. | - | - | - |
-| [branca](https://github.com/hako/branca) | Golang implementation of Branca Tokens. | - | - | - |
-| [casbin](https://github.com/hsluoyz/casbin) | Authorization library that supports access control models like ACL, RBAC, ABAC. | - | - | - |
-| [cookiestxt](https://github.com/mengzhuo/cookiestxt) | provides parser of cookies.txt file format. | - | - | - |
-| [go-jose](https://github.com/square/go-jose) | Fairly complete implementation of the JOSE working group's JSON Web Token, JSON Web Signatures, and JSON Web Encryption specs. | - | - | - |
-| [go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server) | Standalone, specification-compliant,  OAuth2 server written in Golang. | - | - | - |
-| [gologin](https://github.com/dghubble/gologin) | chainable handlers for login with OAuth1 and OAuth2 authentication providers. | - | - | - |
-| [gorbac](https://github.com/mikespook/gorbac) | provides a lightweight role-based access control (RBAC) implementation in Golang. | - | - | - |
-| [goth](https://github.com/markbates/goth) | provides a simple, clean, and idiomatic way to use OAuth and OAuth2. Handles multiple providers out of the box. | - | - | - |
-| [httpauth](https://github.com/goji/httpauth) | HTTP Authentication middleware. | - | - | - |
-| [jwt](https://github.com/robbert229/jwt) | Clean and easy to use implementation of JSON Web Tokens (JWT). | - | - | - |
-| [jwt](https://github.com/pascaldekloe/jwt) | Lightweight JSON Web Token (JWT) library. | - | - | - |
-| [jwt-auth](https://github.com/adam-hanna/jwt-auth) | JWT middleware for Golang http servers with many configuration options. | - | - | - |
-| [jwt-go](https://github.com/dgrijalva/jwt-go) | Golang implementation of JSON Web Tokens (JWT). | - | - | - |
-| [loginsrv](https://github.com/tarent/loginsrv) | JWT login microservice with plugable backends such as OAuth2 (Github), htpasswd, osiam. | - | - | - |
-| [oauth2](https://github.com/golang/oauth2) | Successor of goauth2. Generic OAuth 2.0 package that comes with JWT, Google APIs, Compute Engine and App Engine support. | - | - | - |
-| [osin](https://github.com/openshift/osin) | Golang OAuth2 server library. | - | - | - |
-| [paseto](https://github.com/o1egl/paseto) | Golang implementation of Platform-Agnostic Security Tokens (PASETO). | - | - | - |
-| [permissions2](https://github.com/xyproto/permissions2) | Library for keeping track of users, login states and permissions. Uses secure cookies and bcrypt. | - | - | - |
-| [rbac](https://github.com/zpatrick/rbac) | Minimalistic RBAC package for Go applications. | - | - | - |
-| [securecookie](https://github.com/chmike/securecookie) | Efficient secure cookie encoding/decoding. | - | - | - |
-| [session](https://github.com/icza/session) | Go session management for web servers (including support for Google App Engine - GAE). | - | - | - |
-| [sessiongate-go](https://github.com/f0rmiga/sessiongate-go) | Go session management using the SessionGate Redis module. | - | - | - |
-| [sessions](https://github.com/adam-hanna/sessions) | Dead simple, highly performant, highly customizable sessions service for go http servers. | - | - | - |
-| [signedvalue](https://github.com/sashka/signedvalue) | Signed and timestamped strings compatible with [Tornado's](https://github.com/tornadoweb/tornado) `create_signed_value`, `decode_signed_value`, and therefore `set_secure_cookie` and `get_secure_cookie`. | - | - | - |
+| [authboss](https://github.com/volatiletech/authboss) | Modular authentication system for the web. It tries to remove as much boilerplate and "hard things" as possible so that each time you start a new web project in Go, you can plug it in, configure, and start building your app without having to build an authentication system each time. | 1,851 | 117 | 15 |
+| [branca](https://github.com/hako/branca) | Golang implementation of Branca Tokens. | 60 | 9 | 1 |
+| [casbin](https://github.com/hsluoyz/casbin) | Authorization library that supports access control models like ACL, RBAC, ABAC. | 4,322 | 441 | 15 |
+| [cookiestxt](https://github.com/mengzhuo/cookiestxt) | provides parser of cookies.txt file format. | 2 | 1 | 0 |
+| [go-jose](https://github.com/square/go-jose) | Fairly complete implementation of the JOSE working group's JSON Web Token, JSON Web Signatures, and JSON Web Encryption specs. | 1,059 | 220 | 21 |
+| [go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server) | Standalone, specification-compliant,  OAuth2 server written in Golang. | 1,205 | 171 | 13 |
+| [gologin](https://github.com/dghubble/gologin) | chainable handlers for login with OAuth1 and OAuth2 authentication providers. | 1,002 | 62 | 0 |
+| [gorbac](https://github.com/mikespook/gorbac) | provides a lightweight role-based access control (RBAC) implementation in Golang. | 866 | 121 | 2 |
+| [goth](https://github.com/markbates/goth) | provides a simple, clean, and idiomatic way to use OAuth and OAuth2. Handles multiple providers out of the box. | 2,165 | 252 | 22 |
+| [httpauth](https://github.com/goji/httpauth) | HTTP Authentication middleware. | 174 | 19 | 3 |
+| [jwt](https://github.com/robbert229/jwt) | Clean and easy to use implementation of JSON Web Tokens (JWT). | 67 | 14 | 7 |
+| [jwt](https://github.com/pascaldekloe/jwt) | Lightweight JSON Web Token (JWT) library. | 71 | 4 | 0 |
+| [jwt-auth](https://github.com/adam-hanna/jwt-auth) | JWT middleware for Golang http servers with many configuration options. | 148 | 21 | 0 |
+| [jwt-go](https://github.com/dgrijalva/jwt-go) | Golang implementation of JSON Web Tokens (JWT). | 5,486 | 527 | 44 |
+| [loginsrv](https://github.com/tarent/loginsrv) | JWT login microservice with plugable backends such as OAuth2 (Github), htpasswd, osiam. | 777 | 84 | 15 |
+| [oauth2](https://github.com/golang/oauth2) | Successor of goauth2. Generic OAuth 2.0 package that comes with JWT, Google APIs, Compute Engine and App Engine support. | 2,255 | 510 | 56 |
+| [osin](https://github.com/openshift/osin) | Golang OAuth2 server library. | 1,524 | 319 | 33 |
+| [paseto](https://github.com/o1egl/paseto) | Golang implementation of Platform-Agnostic Security Tokens (PASETO). | 208 | 9 | 0 |
+| [permissions2](https://github.com/xyproto/permissions2) | Library for keeping track of users, login states and permissions. Uses secure cookies and bcrypt. | 341 | 29 | 0 |
+| [rbac](https://github.com/zpatrick/rbac) | Minimalistic RBAC package for Go applications. | 23 | 0 | 0 |
+| [securecookie](https://github.com/chmike/securecookie) | Efficient secure cookie encoding/decoding. | 31 | 3 | 2 |
+| [session](https://github.com/icza/session) | Go session management for web servers (including support for Google App Engine - GAE). | 87 | 8 | 5 |
+| [sessiongate-go](https://github.com/f0rmiga/sessiongate-go) | Go session management using the SessionGate Redis module. | 8 | 0 | 0 |
+| [sessions](https://github.com/adam-hanna/sessions) | Dead simple, highly performant, highly customizable sessions service for go http servers. | 45 | 3 | 2 |
+| [signedvalue](https://github.com/sashka/signedvalue) | Signed and timestamped strings compatible with [Tornado's](https://github.com/tornadoweb/tornado) `create_signed_value`, `decode_signed_value`, and therefore `set_secure_cookie` and `get_secure_cookie`. | 7 | 1 | 0 |
 
 ## Bot Building
 
@@ -163,20 +163,20 @@ A curated list of amazingly awesome Go libraries, resources and shiny things.
 
 | Name | Description | Stars | Forks | Issues (Open) |
 | - | - | - | - | - |
-| [go-chat-bot](https://github.com/go-chat-bot/bot) | IRC, Slack & Telegram bot written in Go. | - | - | - |
-| [go-sarah](https://github.com/oklahomer/go-sarah) | Framework to build bot for desired chat services including LINE, Slack, Gitter and more. | - | - | - |
-| [go-tgbot](https://github.com/olebedev/go-tgbot) | Pure Golang Telegram Bot API wrapper, generated from swagger file, session-based router and middleware. | - | - | - |
-| [Golang CryptoTrading Bot](https://github.com/saniales/golang-crypto-trading-bot) | A golang implementation of a console-based trading bot for cryptocurrency exchanges. | - | - | - |
-| [govkbot](https://github.com/nikepan/govkbot) | Simple Go [VK](https://vk.com) bot library. | - | - | - |
-| [hanu](https://github.com/sbstjn/hanu) | Framework for writing Slack bots. | - | - | - |
-| [Kelp](https://github.com/stellar/kelp) | official trading and market-making bot for the [Stellar](https://www.stellar.org/) DEX. Works out-of-the-box, written in Golang, compatible with centralized exchanges and custom trading strategies. | - | - | - |
-| [margelet](https://github.com/zhulik/margelet) | Framework for building Telegram bots. | - | - | - |
-| [micha](https://github.com/onrik/micha) | Go Library for Telegram bot api. | - | - | - |
-| [slacker](https://github.com/shomali11/slacker) | Easy to use framework to create Slack bots. | - | - | - |
-| [tbot](https://github.com/yanzay/tbot) | Telegram bot server with API similar to net/http. | - | - | - |
-| [telebot](https://github.com/tucnak/telebot) | Telegram bot framework written in Go. | - | - | - |
-| [telegram-bot-api](https://github.com/Syfaro/telegram-bot-api) | Simple and clean Telegram bot client. | - | - | - |
-| [Tenyks](https://github.com/kyleterry/tenyks) | Service oriented IRC bot using Redis and JSON for messaging. | - | - | - |
+| [go-chat-bot](https://github.com/go-chat-bot/bot) | IRC, Slack & Telegram bot written in Go. | 440 | 117 | 6 |
+| [go-sarah](https://github.com/oklahomer/go-sarah) | Framework to build bot for desired chat services including LINE, Slack, Gitter and more. | 120 | 5 | 5 |
+| [go-tgbot](https://github.com/olebedev/go-tgbot) | Pure Golang Telegram Bot API wrapper, generated from swagger file, session-based router and middleware. | 82 | 3 | 2 |
+| [Golang CryptoTrading Bot](https://github.com/saniales/golang-crypto-trading-bot) | A golang implementation of a console-based trading bot for cryptocurrency exchanges. | 181 | 41 | 10 |
+| [govkbot](https://github.com/nikepan/govkbot) | Simple Go [VK](https://vk.com) bot library. | 21 | 2 | 1 |
+| [hanu](https://github.com/sbstjn/hanu) | Framework for writing Slack bots. | 100 | 8 | 1 |
+| [Kelp](https://github.com/stellar/kelp) | official trading and market-making bot for the [Stellar](https://www.stellar.org/) DEX. Works out-of-the-box, written in Golang, compatible with centralized exchanges and custom trading strategies. | 134 | 36 | 28 |
+| [margelet](https://github.com/zhulik/margelet) | Framework for building Telegram bots. | 57 | 9 | 0 |
+| [micha](https://github.com/onrik/micha) | Go Library for Telegram bot api. | 9 | 2 | 0 |
+| [slacker](https://github.com/shomali11/slacker) | Easy to use framework to create Slack bots. | 292 | 33 | 3 |
+| [tbot](https://github.com/yanzay/tbot) | Telegram bot server with API similar to net/http. | 204 | 30 | 9 |
+| [telebot](https://github.com/tucnak/telebot) | Telegram bot framework written in Go. | 892 | 134 | 34 |
+| [telegram-bot-api](https://github.com/Syfaro/telegram-bot-api) | Simple and clean Telegram bot client. | 1,501 | 256 | 4 |
+| [Tenyks](https://github.com/kyleterry/tenyks) | Service oriented IRC bot using Redis and JSON for messaging. | 167 | 15 | 13 |
 
 ## Command Line
 
