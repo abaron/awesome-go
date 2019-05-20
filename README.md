@@ -1424,25 +1424,25 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 | Name | Description | Stars | Forks | Issues (Open) |
 | - | - | - | - | - |
-| [acmetool](https://github.com/hlandau/acme) | ACME (Let's Encrypt) client tool with automatic renewal. | - | - | - |
-| [acra](https://github.com/cossacklabs/acra) | Network encryption proxy to protect database-based applications from data leaks: strong selective encryption, SQL injections prevention, intrusion detection system. | - | - | - |
-| [argon2pw](https://github.com/raja/argon2pw) | Argon2 password hash generation with constant-time password comparison. | - | - | - |
-| [autocert](https://godoc.org/golang.org/x/crypto/acme/autocert) | Auto provision Let's Encrypt certificates and start a TLS server. | - | - | - |
-| [BadActor](https://github.com/jaredfolkins/badactor) | In-memory, application-driven jailer built in the spirit of fail2ban. | - | - | - |
-| [Cameradar](https://github.com/Ullaakut/cameradar) | Tool and library to remotely hack RTSP streams from surveillance cameras. | - | - | - |
-| [go-yara](https://github.com/hillu/go-yara) | Go Bindings for [YARA](https://github.com/plusvic/yara), the "pattern matching swiss knife for malware researchers (and everyone else)". | - | - | - |
-| [goArgonPass](https://github.com/dwin/goArgonPass) | Argon2 password hash and verification designed to be compatible with existing Python and PHP implementations. | - | - | - |
-| [goSecretBoxPassword](https://github.com/dwin/goSecretBoxPassword) | A probably paranoid package for securely hashing and encrypting passwords. | - | - | - |
-| [Interpol](https://bitbucket.org/vahidi/interpol) | Rule-based data generator for fuzzing and penetration testing. | - | - | - |
-| [jwc](https://github.com/khezen/jwc) | JSON Web Cryptography library. | - | - | - |
-| [lego](https://github.com/xenolf/lego) | Pure Go ACME client library and CLI tool (for use with Let's Encrypt). | - | - | - |
-| [memguard](https://github.com/awnumar/memguard) | A pure Go library for handling sensitive values in memory. | - | - | - |
-| [nacl](https://github.com/kevinburke/nacl) | Go implementation of the NaCL set of API's. | - | - | - |
-| [passlib](https://github.com/hlandau/passlib) | Futureproof password hashing library. | - | - | - |
-| [secure](https://github.com/unrolled/secure) | HTTP middleware for Go that facilitates some quick security wins. | - | - | - |
-| [simple-scrypt](https://github.com/elithrar/simple-scrypt) | Scrypt package with a simple, obvious API and automatic cost calibration built-in. | - | - | - |
-| [ssh-vault](https://github.com/ssh-vault/ssh-vault) | encrypt/decrypt using ssh keys. | - | - | - |
-| [sslmgr](https://github.com/adrianosela/sslmgr) | SSL certificates made easy with a high level wrapper around acme/autocert. | - | - | - |
+| [acmetool](https://github.com/hlandau/acme) | ACME (Let's Encrypt) client tool with automatic renewal. | 1,684 | 91 | 56 |
+| [acra](https://github.com/cossacklabs/acra) | Network encryption proxy to protect database-based applications from data leaks: strong selective encryption, SQL injections prevention, intrusion detection system. | 422 | 37 | 6 |
+| [argon2pw](https://github.com/raja/argon2pw) | Argon2 password hash generation with constant-time password comparison. | 72 | 6 | 0 |
+| [autocert](https://godoc.org/golang.org/x/crypto/acme/autocert) | Auto provision Let's Encrypt certificates and start a TLS server. | `nil` | `nil` | `nil` |
+| [BadActor](https://github.com/jaredfolkins/badactor) | In-memory, application-driven jailer built in the spirit of fail2ban. | 240 | 8 | 0 |
+| [Cameradar](https://github.com/Ullaakut/cameradar) | Tool and library to remotely hack RTSP streams from surveillance cameras. | 1,734 | 231 | 5 |
+| [go-yara](https://github.com/hillu/go-yara) | Go Bindings for [YARA](https://github.com/plusvic/yara), the "pattern matching swiss knife for malware researchers (and everyone else)". | 131 | 45 | 5 |
+| [goArgonPass](https://github.com/dwin/goArgonPass) | Argon2 password hash and verification designed to be compatible with existing Python and PHP implementations. | 10 | 3 | 0 |
+| [goSecretBoxPassword](https://github.com/dwin/goSecretBoxPassword) | A probably paranoid package for securely hashing and encrypting passwords. | 28 | 7 | 0 |
+| [Interpol](https://bitbucket.org/vahidi/interpol) | Rule-based data generator for fuzzing and penetration testing. | `nil` | `nil` | `nil` |
+| [jwc](https://github.com/khezen/jwc) | JSON Web Cryptography library. | 4 | 1 | 0 |
+| [lego](https://github.com/xenolf/lego) | Pure Go ACME client library and CLI tool (for use with Let's Encrypt). | 3,339 | 436 | 75 |
+| [memguard](https://github.com/awnumar/memguard) | A pure Go library for handling sensitive values in memory. | 951 | 41 | 1 |
+| [nacl](https://github.com/kevinburke/nacl) | Go implementation of the NaCL set of API's. | 448 | 20 | 1 |
+| [passlib](https://github.com/hlandau/passlib) | Futureproof password hashing library. | 223 | 22 | 2 |
+| [secure](https://github.com/unrolled/secure) | HTTP middleware for Go that facilitates some quick security wins. | 1,159 | 77 | 1 |
+| [simple-scrypt](https://github.com/elithrar/simple-scrypt) | Scrypt package with a simple, obvious API and automatic cost calibration built-in. | 150 | 17 | 1 |
+| [ssh-vault](https://github.com/ssh-vault/ssh-vault) | encrypt/decrypt using ssh keys. | 194 | 15 | 8 |
+| [sslmgr](https://github.com/adrianosela/sslmgr) | SSL certificates made easy with a high level wrapper around acme/autocert. | 6 | 0 | 0 |
 
 ## Serialization
 
