@@ -260,33 +260,33 @@ A curated list of amazingly awesome Go libraries, resources and shiny things.
 
 | Name | Description | Stars | Forks | Issues (Open) |
 | - | - | - | - | - |
-| [config](https://github.com/JeremyLoy/config) | Cloud native application configuration. Bind ENV to structs in only two lines. | - | - | - |
-| [config](https://github.com/olebedev/config) | JSON or YAML configuration wrapper with environment variables and flags parsing. | - | - | - |
-| [configure](https://github.com/paked/configure) | Provides configuration through multiple sources, including JSON, flags and environment variables. | - | - | - |
-| [confita](https://github.com/heetch/confita) | Load configuration in cascade from multiple backends into a struct. | - | - | - |
-| [conflate](https://github.com/the4thamigo-uk/conflate) | Library/tool to merge multiple JSON/YAML/TOML files from arbitrary URLs, validation against a JSON schema, and application of default values defined in the schema. | - | - | - |
-| [env](https://github.com/caarlos0/env) | Parse environment variables to Go structs (with defaults). | - | - | - |
-| [envcfg](https://github.com/tomazk/envcfg) | Un-marshaling environment variables to Go structs. | - | - | - |
-| [envconf](https://github.com/ian-kent/envconf) | Configuration from environment. | - | - | - |
-| [envconfig](https://github.com/vrischmann/envconfig) | Read your configuration from environment variables. | - | - | - |
-| [envh](https://github.com/antham/envh) | Helpers to manage environment variables. | - | - | - |
-| [gcfg](https://github.com/go-gcfg/gcfg) | read INI-style configuration files into Go structs; supports user-defined types and subsections. | - | - | - |
-| [go-up](https://github.com/ufoscout/go-up) | A simple configuration library with recursive placeholders resolution and no magic. | - | - | - |
-| [goConfig](https://github.com/crgimenes/goConfig) | Parses a struct as input and populates the fields of this struct with parameters from command line, environment variables and configuration file. | - | - | - |
-| [godotenv](https://github.com/joho/godotenv) | Go port of Ruby's dotenv library (Loads environment variables from `.env`). | - | - | - |
-| [gofigure](https://github.com/ian-kent/gofigure) | Go application configuration made easy. | - | - | - |
-| [gone/jconf](https://github.com/One-com/gone/tree/master/jconf) | Modular JSON configuration. Keep you config structs along with the code they configure and delegate parsing to submodules without sacrificing full config serialization. | - | - | - |
-| [gookit/config](https://github.com/gookit/config) | application config manage(load,get,set). support JSON, YAML, TOML, INI, HCL. multi file load, data override merge. | - | - | - |
-| [hjson](https://github.com/hjson/hjson-go) | Human JSON, a configuration file format for humans. Relaxed syntax, fewer mistakes, more comments. | - | - | - |
-| [ingo](https://github.com/schachmat/ingo) | Flags persisted in an ini-like config file. | - | - | - |
-| [ini](https://github.com/go-ini/ini) | Go package to read and write INI files. | - | - | - |
-| [joshbetz/config](https://github.com/joshbetz/config) | Small configuration library for Go that parses environment variables, JSON files, and reloads automatically on SIGHUP. | - | - | - |
-| [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) | Go library for managing configuration data from environment variables. | - | - | - |
-| [mini](https://github.com/sasbury/mini) | Golang package for parsing ini-style configuration files. | - | - | - |
-| [sprbox](https://github.com/oblq/sprbox) | Build-environment aware toolbox factory and agnostic config parser (YAML, TOML, JSON and Environment vars). | - | - | - |
-| [store](https://github.com/tucnak/store) | Lightweight configuration manager for Go. | - | - | - |
-| [viper](https://github.com/spf13/viper) | Go configuration with fangs. | - | - | - |
-| [xdg](https://github.com/OpenPeeDeeP/xdg) | Cross platform package that follows the [XDG Standard](https://standards.freedesktop.org/basedir-spec/basedir-spec-latest.html). | - | - | - |
+| [config](https://github.com/JeremyLoy/config) | Cloud native application configuration. Bind ENV to structs in only two lines. | 177 | 4 | 0 |
+| [config](https://github.com/olebedev/config) | JSON or YAML configuration wrapper with environment variables and flags parsing. | 204 | 36 | 4 |
+| [configure](https://github.com/paked/configure) | Provides configuration through multiple sources, including JSON, flags and environment variables. | 48 | 8 | 1 |
+| [confita](https://github.com/heetch/confita) | Load configuration in cascade from multiple backends into a struct. | 231 | 18 | 12 |
+| [conflate](https://github.com/the4thamigo-uk/conflate) | Library/tool to merge multiple JSON/YAML/TOML files from arbitrary URLs, validation against a JSON schema, and application of default values defined in the schema. | 9 | 3 | 0 |
+| [env](https://github.com/caarlos0/env) | Parse environment variables to Go structs (with defaults). | 807 | 71 | 0 |
+| [envcfg](https://github.com/tomazk/envcfg) | Un-marshaling environment variables to Go structs. | 90 | 6 | 0 |
+| [envconf](https://github.com/ian-kent/envconf) | Configuration from environment. | 7 | 2 | 0 |
+| [envconfig](https://github.com/vrischmann/envconfig) | Read your configuration from environment variables. | 140 | 13 | 1 |
+| [envh](https://github.com/antham/envh) | Helpers to manage environment variables. | 92 | 0 | 0 |
+| [gcfg](https://github.com/go-gcfg/gcfg) | read INI-style configuration files into Go structs; supports user-defined types and subsections. | 112 | 30 | 3 |
+| [go-up](https://github.com/ufoscout/go-up) | A simple configuration library with recursive placeholders resolution and no magic. | 23 | 1 | 1 |
+| [goConfig](https://github.com/crgimenes/goConfig) | Parses a struct as input and populates the fields of this struct with parameters from command line, environment variables and configuration file. | 101 | 16 | 5 |
+| [godotenv](https://github.com/joho/godotenv) | Go port of Ruby's dotenv library (Loads environment variables from `.env`). | 1,965 | 111 | 12 |
+| [gofigure](https://github.com/ian-kent/gofigure) | Go application configuration made easy. | 57 | 7 | 0 |
+| [gone/jconf](https://github.com/One-com/gone/tree/master/jconf) | Modular JSON configuration. Keep you config structs along with the code they configure and delegate parsing to submodules without sacrificing full config serialization. | 27 | 6 | 0 |
+| [gookit/config](https://github.com/gookit/config) | application config manage(load,get,set). support JSON, YAML, TOML, INI, HCL. multi file load, data override merge. | 60 | 9 | 0 |
+| [hjson](https://github.com/hjson/hjson-go) | Human JSON, a configuration file format for humans. Relaxed syntax, fewer mistakes, more comments. | 170 | 19 | 1 |
+| [ingo](https://github.com/schachmat/ingo) | Flags persisted in an ini-like config file. | 23 | 3 | 0 |
+| [ini](https://github.com/go-ini/ini) | Go package to read and write INI files. | 1,445 | 202 | 11 |
+| [joshbetz/config](https://github.com/joshbetz/config) | Small configuration library for Go that parses environment variables, JSON files, and reloads automatically on SIGHUP. | 194 | 9 | 0 |
+| [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) | Go library for managing configuration data from environment variables. | 2,261 | 199 | 16 |
+| [mini](https://github.com/sasbury/mini) | Golang package for parsing ini-style configuration files. | 19 | 15 | 1 |
+| [sprbox](https://github.com/oblq/sprbox) | Build-environment aware toolbox factory and agnostic config parser (YAML, TOML, JSON and Environment vars). | 3 | 0 | 0 |
+| [store](https://github.com/tucnak/store) | Lightweight configuration manager for Go. | 240 | 14 | 2 |
+| [viper](https://github.com/spf13/viper) | Go configuration with fangs. | 8,485 | 820 | 238 |
+| [xdg](https://github.com/OpenPeeDeeP/xdg) | Cross platform package that follows the [XDG Standard](https://standards.freedesktop.org/basedir-spec/basedir-spec-latest.html). | 29 | 1 | 0 |
 
 ## Continuous Integration
 
@@ -2441,6 +2441,6 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [Working with Go](https://github.com/mkaz/working-with-go) | Intro to go for experienced programmers.
 | [Your basic Go](http://yourbasic.org/golang) | Huge collection of tutorials and how to's.
 
-The list has copied from [here](https://github.com/avelino/awesome-go) on May 16, 2019.
+Thanks to [Awesome Go](https://github.com/avelino/awesome-go)
 
 Thank you!
