@@ -1176,40 +1176,40 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 | Name | Description | Stars | Forks | Issues (Open) |
 | - | - | - | - | - |
-| [getlang](https://github.com/rylans/getlang) | Fast natural language detection package. | - | - | - |
-| [go-eco](https://github.com/ThePaw/go-eco) | Similarity, dissimilarity and distance matrices; diversity, equitability and inequality measures; species richness estimators; coenocline models. | - | - | - |
-| [go-i18n](https://github.com/nicksnyder/go-i18n/) | Package and an accompanying tool to work with localized text. | - | - | - |
-| [go-mystem](https://github.com/dveselov/mystem) | CGo bindings to Yandex.Mystem - russian morphology analyzer. | - | - | - |
-| [go-nlp](https://github.com/nuance/go-nlp) | Utilities for working with discrete probability distributions and other tools useful for doing NLP work. | - | - | - |
-| [go-pinyin](https://github.com/mozillazg/go-pinyin) | CN Hanzi to Hanyu Pinyin converter. | - | - | - |
-| [go-stem](https://github.com/agonopol/go-stem) | Implementation of the porter stemming algorithm. | - | - | - |
-| [go-unidecode](https://github.com/mozillazg/go-unidecode) | ASCII transliterations of Unicode text. | - | - | - |
-| [go2vec](https://github.com/danieldk/go2vec) | Reader and utility functions for word2vec embeddings. | - | - | - |
-| [gojieba](https://github.com/yanyiwu/gojieba) | This is a Go implementation of [jieba](https://github.com/fxsjy/jieba) which a Chinese word splitting algorithm. | - | - | - |
-| [golibstemmer](https://github.com/rjohnsondev/golibstemmer) | Go bindings for the snowball libstemmer library including porter 2. | - | - | - |
-| [gotokenizer](https://github.com/xujiajun/gotokenizer) | A tokenizer based on the dictionary and Bigram language models for Golang. (Now only support chinese segmentation) | - | - | - |
-| [gounidecode](https://github.com/fiam/gounidecode) | Unicode transliterator (also known as unidecode) for Go. | - | - | - |
-| [gse](https://github.com/go-ego/gse) | Go efficient text segmentation; support english, chinese, japanese and other. | - | - | - |
-| [icu](https://github.com/goodsign/icu) | Cgo binding for icu4c C library detection and conversion functions. Guaranteed compatibility with version 50.1. | - | - | - |
-| [kagome](https://github.com/ikawaha/kagome) | JP morphological analyzer written in pure Go. | - | - | - |
-| [libtextcat](https://github.com/goodsign/libtextcat) | Cgo binding for libtextcat C library. Guaranteed compatibility with version 2.2. | - | - | - |
-| [MMSEGO](https://github.com/awsong/MMSEGO) | This is a GO implementation of [MMSEG](http://technology.chtsai.org/mmseg/) which a Chinese word splitting algorithm. | - | - | - |
-| [nlp](https://github.com/Shixzie/nlp) | Extract values from strings and fill your structs with nlp. | - | - | - |
-| [nlp](https://github.com/james-bowman/nlp) | Go Natural Language Processing library supporting LSA (Latent Semantic Analysis). | - | - | - |
-| [paicehusk](https://github.com/rookii/paicehusk) | Golang implementation of the Paice/Husk Stemming Algorithm. | - | - | - |
-| [petrovich](https://github.com/striker2000/petrovich) | Petrovich is the library which inflects Russian names to given grammatical case. | - | - | - |
-| [porter](https://github.com/a2800276/porter) | This is a fairly straightforward port of Martin Porter's C implementation of the Porter stemming algorithm. | - | - | - |
-| [porter2](https://github.com/zhenjl/porter2) | Really fast Porter 2 stemmer. | - | - | - |
-| [prose](https://github.com/jdkato/prose) | Library for text processing that supports tokenization, part-of-speech tagging, named-entity extraction, and more. | - | - | - |
-| [RAKE.go](https://github.com/Obaied/RAKE.go) | Go port of the Rapid Automatic Keyword Extraction Algorithm (RAKE). | - | - | - |
-| [segment](https://github.com/blevesearch/segment) | Go library for performing Unicode Text Segmentation as described in [Unicode Standard Annex #29](http://www.unicode.org/reports/tr29/) | - | - | - |
-| [sentences](https://github.com/neurosnap/sentences) | Sentence tokenizer:  converts text into a list of sentences. | - | - | - |
-| [shamoji](https://github.com/osamingo/shamoji) | The shamoji is word filtering package written in Go. | - | - | - |
-| [snowball](https://github.com/goodsign/snowball) | Snowball stemmer port (cgo wrapper) for Go. Provides word stem extraction functionality [Snowball native](http://snowball.tartarus.org/). | - | - | - |
-| [stemmer](https://github.com/dchest/stemmer) | Stemmer packages for Go programming language. Includes English and German stemmers. | - | - | - |
-| [textcat](https://github.com/pebbe/textcat) | Go package for n-gram based text categorization, with support for utf-8 and raw text. | - | - | - |
-| [whatlanggo](https://github.com/abadojack/whatlanggo) | Natural language detection package for Go. Supports 84 languages and 24 scripts (writing systems e.g. Latin, Cyrillic, etc). | - | - | - |
-| [when](https://github.com/olebedev/when) | Natural EN and RU language date/time parser with pluggable rules. | - | - | - |
+| [getlang](https://github.com/rylans/getlang) | Fast natural language detection package. | 85 | 13 | 2 |
+| [go-eco](https://github.com/ThePaw/go-eco) | Similarity, dissimilarity and distance matrices; diversity, equitability and inequality measures; species richness estimators; coenocline models. | 4 | 2 | 1 |
+| [go-i18n](https://github.com/nicksnyder/go-i18n/) | Package and an accompanying tool to work with localized text. | 1.3k | 144 | 12 |
+| [go-mystem](https://github.com/dveselov/mystem) | CGo bindings to Yandex.Mystem - russian morphology analyzer. | 23 | 5 | 0 |
+| [go-nlp](https://github.com/nuance/go-nlp) | Utilities for working with discrete probability distributions and other tools useful for doing NLP work. | 82 | 10 | 0 |
+| [go-pinyin](https://github.com/mozillazg/go-pinyin) | CN Hanzi to Hanyu Pinyin converter. | 648 | 109 | 11 |
+| [go-stem](https://github.com/agonopol/go-stem) | Implementation of the porter stemming algorithm. | 56 | 15 | 0 |
+| [go-unidecode](https://github.com/mozillazg/go-unidecode) | ASCII transliterations of Unicode text. | 67 | 11 | 1 |
+| [go2vec](https://github.com/danieldk/go2vec) | Reader and utility functions for word2vec embeddings. | 33 | 3 | 0 |
+| [gojieba](https://github.com/yanyiwu/gojieba) | This is a Go implementation of [jieba](https://github.com/fxsjy/jieba) which a Chinese word splitting algorithm. | 985 | 176 | 35 |
+| [golibstemmer](https://github.com/rjohnsondev/golibstemmer) | Go bindings for the snowball libstemmer library including porter 2. | 17 | 4 | 0 |
+| [gotokenizer](https://github.com/xujiajun/gotokenizer) | A tokenizer based on the dictionary and Bigram language models for Golang. (Now only support chinese segmentation) | 6 | 3 | 0 |
+| [gounidecode](https://github.com/fiam/gounidecode) | Unicode transliterator (also known as unidecode) for Go. | 68 | 19 | 2 |
+| [gse](https://github.com/go-ego/gse) | Go efficient text segmentation; support english, chinese, japanese and other. | 1.2k | 96 | 5 |
+| [icu](https://github.com/goodsign/icu) | Cgo binding for icu4c C library detection and conversion functions. Guaranteed compatibility with version 50.1. | 19 | 4 | 0 |
+| [kagome](https://github.com/ikawaha/kagome) | JP morphological analyzer written in pure Go. | 472 | 34 | 3 |
+| [libtextcat](https://github.com/goodsign/libtextcat) | Cgo binding for libtextcat C library. Guaranteed compatibility with version 2.2. | 10 | 6 | 0 |
+| [MMSEGO](https://github.com/awsong/MMSEGO) | This is a GO implementation of [MMSEG](http://technology.chtsai.org/mmseg/) which a Chinese word splitting algorithm. | 59 | 12 | 0 |
+| [nlp](https://github.com/Shixzie/nlp) | Extract values from strings and fill your structs with nlp. | 361 | 26 | 4 |
+| [nlp](https://github.com/james-bowman/nlp) | Go Natural Language Processing library supporting LSA (Latent Semantic Analysis). | 241 | 24 | 2 |
+| [paicehusk](https://github.com/rookii/paicehusk) | Golang implementation of the Paice/Husk Stemming Algorithm. | 26 | 5 | 2 |
+| [petrovich](https://github.com/striker2000/petrovich) | Petrovich is the library which inflects Russian names to given grammatical case. | 28 | 1 | 0 |
+| [porter](https://github.com/a2800276/porter) | This is a fairly straightforward port of Martin Porter's C implementation of the Porter stemming algorithm. | 8 | 0 | 0 |
+| [porter2](https://github.com/zhenjl/porter2) | Really fast Porter 2 stemmer. | 37 | 2 | 0 |
+| [prose](https://github.com/jdkato/prose) | Library for text processing that supports tokenization, part-of-speech tagging, named-entity extraction, and more. | 2.4k | 116 | 12 |
+| [RAKE.go](https://github.com/Obaied/RAKE.go) | Go port of the Rapid Automatic Keyword Extraction Algorithm (RAKE). | 55 | 9 | 3 |
+| [segment](https://github.com/blevesearch/segment) | Go library for performing Unicode Text Segmentation as described in [Unicode Standard Annex #29](http://www.unicode.org/reports/tr29/) | 47 | 7 | 4 |
+| [sentences](https://github.com/neurosnap/sentences) | Sentence tokenizer:  converts text into a list of sentences. | 266 | 24 | 2 |
+| [shamoji](https://github.com/osamingo/shamoji) | The shamoji is word filtering package written in Go. | 11 | 0 | 0 |
+| [snowball](https://github.com/goodsign/snowball) | Snowball stemmer port (cgo wrapper) for Go. Provides word stem extraction functionality [Snowball native](http://snowball.tartarus.org/). | 25 | 2 | 0 |
+| [stemmer](https://github.com/dchest/stemmer) | Stemmer packages for Go programming language. Includes English and German stemmers. | 49 | 2 | 0 |
+| [textcat](https://github.com/pebbe/textcat) | Go package for n-gram based text categorization, with support for utf-8 and raw text. | 62 | 8 | 0 |
+| [whatlanggo](https://github.com/abadojack/whatlanggo) | Natural language detection package for Go. Supports 84 languages and 24 scripts (writing systems e.g. Latin, Cyrillic, etc). | 397 | 31 | 6 |
+| [when](https://github.com/olebedev/when) | Natural EN and RU language date/time parser with pluggable rules. | 1.1k | 50 | 10 |
 
 ## Networking
 
@@ -2441,6 +2441,4 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [Working with Go](https://github.com/mkaz/working-with-go) | Intro to go for experienced programmers.
 | [Your basic Go](http://yourbasic.org/golang) | Huge collection of tutorials and how to's.
 
-Thanks to [Awesome Go](https://github.com/avelino/awesome-go)
-
-Thank you!
+Thanks to [Awesome Go](https://github.com/avelino/awesome-go), [Ecpplus](https://awesome-repos.ecp.plus/go.html), and all who related this project. Thank you!
